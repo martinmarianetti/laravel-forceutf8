@@ -3,6 +3,19 @@ This is a Laravel wrapper for neitanod/forceutf8
 
 #Installation
 
+##Install via composer
+
+Add:
+
+    "require": {
+        "neitanod/forceutf8": "dev-master"
+    }
+    
+to your composer.json file, then run:
+    
+    composer update martinmarianetti/laravel-forceutf8
+
+
 Add: 
 
     'Martinmarianetti\Forceutf8\Forceutf8ServiceProvider',
