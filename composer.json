@@ -19,6 +19,5 @@
         "psr-0": {
             "Martinmarianetti\\Forceutf8\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
