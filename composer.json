@@ -10,7 +10,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "4.2.*",
-        "neitanod/forceutf8": "dev-master"
+        "neitanod/forceutf8": ">=1.4"
     },
     "autoload": {
         "classmap": [
@@ -19,5 +19,7 @@
         "psr-0": {
             "Martinmarianetti\\Forceutf8\\": "src/"
         }
+    },
+    "minimum-stability": "stable"
     }
 }
